@@ -1,4 +1,4 @@
-# Swift CLI CheatSheet
+# Swift CLI Cheatsheet
 
 A list of the swift CLI application commands. 
 
