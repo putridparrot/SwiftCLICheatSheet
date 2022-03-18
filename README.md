@@ -14,9 +14,13 @@ CLI commands
 
 | Command | Description |
 |---------|-------------|
-| swift --version | Output the current version of the Swift CLI |
+| swift -version | Output the current version of the Swift CLI |
+| swift -help  | list the CLI help |
+| swift help    | list the CLI help |
 
 CLI Subcommands (Swift Package Manager)
+
+_Note: you can use swift help subcommand to get help on a given subcommand._
 
 | Command | Description |
 |---------|-------------|
