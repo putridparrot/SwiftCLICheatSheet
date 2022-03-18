@@ -15,7 +15,6 @@ CLI commands
 | Command | Description |
 |---------|-------------|
 | swift --version | Output the current version of the Swift CLI |
-|
 
 CLI Subcommands (Swift Package Manager)
 
