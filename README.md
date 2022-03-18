@@ -11,15 +11,13 @@ CLI commands
 
 CLI Subcommands (Swift Package Manager)
 
-_Note: you can use swift help subcommand to get help on a given subcommand._
-
 | Command | Description |
 |---------|-------------|
-| swift help  | list the CLI help |
 | swift package | perform operations on Swift packages |
 | swift build | build source in binary |
 | swift run | build and run an executable product |
 | swift test | build and run tests |
+| swift help <subcommand> | list the help for the supplied subcommand |
 
 Package Options
 
