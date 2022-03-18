@@ -2,14 +2,6 @@
 
 A list of the swift CLI application commands. 
 
-REPL Commands
-
-| Command | Description |
-|---------|-------------|
-| swift   | lauches the swift REPL |
-| :quit   | quit/exit the REPL |
-| :help   | list the REPL help |
-
 CLI commands
 
 | Command | Description |
@@ -55,3 +47,12 @@ Build Options
 |---------|-------------|
 | swift build --target  | build using the supplied target configuration (target as stored on the Package .swift file |
 | swift build --product | build using the supplied product configuration (produce as stored on the Package .swift file |
+
+
+REPL Commands
+
+| Command | Description |
+|---------|-------------|
+| swift   | lauches the swift REPL |
+| :quit   | quit/exit the REPL |
+| :help   | list the REPL help |
