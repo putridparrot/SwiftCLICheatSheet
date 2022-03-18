@@ -8,7 +8,6 @@ CLI commands
 |---------|-------------|
 | swift -version | Output the current version of the Swift CLI |
 | swift -help  | list the CLI help |
-| swift help    | list the CLI help |
 
 CLI Subcommands (Swift Package Manager)
 
