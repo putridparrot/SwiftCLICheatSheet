@@ -32,6 +32,12 @@ _Run these commands from the folder where you want your package written to_
 | swift package init --type system-module | Create a system module package |
 | swift package init --type manifest | Create a manifest package |
 
+Package Dependencies
+  
+| Command | Description |
+|---------|-------------|
+| swift package resolve | Resolve package dependencies |
+  
 Add --name to the _package_ subcommand to supply a package name, for example
 
 | Command | Description |
