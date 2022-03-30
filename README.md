@@ -51,7 +51,14 @@ Build Options
 | swift build --target  | build using the supplied target configuration (target as stored on the Package .swift file |
 | swift build --product | build using the supplied product configuration (produce as stored on the Package .swift file |
 
+Running Unit Tests
 
+| Command | Description |
+|---------|-------------|
+| swift test | runs all unit tests |
+| swift test --filter MyTestName | runs tests using the supplied filter or just supply the name of the test to run just that one |
+| swift test -l | list test methods |
+  
 REPL Commands
 
 | Command | Description |
